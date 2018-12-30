@@ -58,18 +58,3 @@ header.startup h1 {
 .h1 {
   font-size: 5em;
   }
-  .btn-primary btn-xl {
-    display: flex;
-    justify-content: center;
-    align-content: center;
-    align-items: center;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-  }
-  .wrapper {
-    .wrapper {
-    text-align: center;
-}
-
-
